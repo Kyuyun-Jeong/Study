@@ -1,2 +1,2 @@
 # Study
-This is my study area.
+혼자 공부하고, 공부한 내용을 올리는 공간입니다.
